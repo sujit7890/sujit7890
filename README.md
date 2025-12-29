@@ -49,9 +49,4 @@ I focus on building **practical, user-focused applications** — from web platfo
 
 ---
 
-## 📊 GitHub Stats
-![Sujit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ⭐ *I believe in building things that work first — then making them better.*
